@@ -1,0 +1,4 @@
+#ifndef AUDIODECTHREAD_H
+#define AUDIODECTHREAD_H
+
+#endif // AUDIODECTHREAD_H
